@@ -1,0 +1,16 @@
+Employee_ID,Employee_Name,Age,Department,Years_of_Experience,Salary,Performance_Score,Project_Completion
+1001,Alice Smith,28.0,HR,5.0,55000.0,8.0,yes
+1002,Bob JOnes,35.0,IT,12.0,120000.0,,No
+1003,Charlie Brown,22.0,IT,2.0,40000.0,5.0,yes
+1004,David Wilkins,-1.0,Finance,15.0,200000.0,9.0,yes
+1005,Eve Turner,40.0,Finance,10.0,,7.0,n/a
+1006,Frank N. Walker,27.0,marketing,,80000.0,6.0,yes
+1007,Grace Lee,,HR,6.0,65000.0,8.0,yes
+1008,Henry O'Conner,30.0,IT,8.0,95000.0,10.0,Yes
+1009,Ivan Peterson,26.0,Marketing,3.0,50000.0,6.0,yes
+1010,Jack Daniels,40.0,HR,20.0,200000.0,5.0,no
+1011,,33.0,HR,8.0,75000.0,7.0,no
+1012,Lisa Ray,27.0,Engineering,,72000.0,,yes
+1013,Michael Johnson,32.0,Engineering,7.0,80000.0,4.0,Yes
+1014,Natalie Green,27.0,,5.0,70000.0,6.0,Yes
+1015,Oliver Black,38.0,Finance,20.0,150000.0,10.0,YES
